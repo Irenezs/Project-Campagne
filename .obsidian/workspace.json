@@ -44,6 +44,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BBeG Draft.md",
+                "file": "World Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BBeG Draft.md",
+                "file": "World Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BBeG Draft.md"
+                "file": "World Draft.md"
               }
             }
           }
@@ -171,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2010cd138c536fff",
+  "active": "7a95e356db7720c4",
   "lastOpenFiles": [
-    "World Draft.md",
     "BBeG Draft.md",
+    "World Draft.md",
     "Start.md",
     "Basic Info.md"
   ]
