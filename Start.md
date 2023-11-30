@@ -1,0 +1,1 @@
+Players will make their own way to a small port city, where a terrorist group will bring the players to meeting, either from all attempting to stop it or by being a part of it, unknown, need input from players (Very late stage decisions)
