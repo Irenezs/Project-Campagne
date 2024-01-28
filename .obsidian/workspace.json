@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1808bb3708d87f7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "8cdbaaeffd7f3689",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -172,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a95e356db7720c4",
+  "active": "1808bb3708d87f7e",
   "lastOpenFiles": [
     "BBeG Draft.md",
     "World Draft.md",
